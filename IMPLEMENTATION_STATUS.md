@@ -37,4 +37,6 @@
 | 30 | The Glass Orchard | Archived | Unverified | Unverified |
 | 31 | The Cartographers of Nowhere | Archived | Unverified | Unverified |
 
+| 32 | The Muisca Confederation | Archived | Unverified | Unverified |
+
 For each confirmed implementation, link the repository, commit or pull request, and the test outcome. Existing Wacky2/Wacky3 implementations may be linked separately once validated.
