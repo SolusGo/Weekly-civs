@@ -1,6 +1,6 @@
 # 🎲 Weekly Civs — The Civilization V Surprise Encyclopedia
 
-**26 Daily Surprise Civilization concepts**, archived for Sid Meier's **Civilization V: Brave New World + Community Patch v151**. This is a *design library*, not an installable mod pack.
+**31 Daily Surprise Civilization concepts**, archived for Sid Meier's **Civilization V: Brave New World + Community Patch v151**. This is a *design library*, not an installable mod pack.
 
 Every civ has one Markdown entry with its known numerical mechanics, unique components, and Codex implementation cautions. Human-only by default: `Playable=1`, `AIPlayable=0`.
 
@@ -34,6 +34,11 @@ Every civ has one Markdown entry with its known numerical mechanics, unique comp
 | 24 | [The Postal Sovereignty](Civilizations/024-the-postal-sovereignty.md) | Postal networks | Science / Culture |
 | 25 | [The Carapace Dominion](Civilizations/025-the-carapace-dominion.md) | Crab coastal fortresses | Science / Domination |
 | 26 | [The Octopus Parliament](Civilizations/026-the-octopus-parliament.md) | Octopus democracy | Science / Culture |
+| 27 | [The Fogbound Republic](Civilizations/027-the-fogbound-republic.md) | Swamp cities, hidden approaches, wetland science | Science / Domination |
+| 28 | [The Republic of Borrowed Tomorrows](Civilizations/028-the-republic-of-borrowed-tomorrows.md) | Temporal debt, advances against future economic output | Science / Culture |
+| 29 | [The Lichen Compact](Civilizations/029-the-lichen-compact.md) | Cold-country survival inspired by lichen symbiosis | Science / Culture |
+| 30 | [The Glass Orchard](Civilizations/030-the-glass-orchard.md) | Solar greenhouses and desert agriculture | Science / Culture |
+| 31 | [The Cartographers of Nowhere](Civilizations/031-the-cartographers-of-nowhere.md) | Expeditions, discovery, mapping the unknown | Science / Culture |
 
 ## Other files
 - [Implementation Status](IMPLEMENTATION_STATUS.md) — tracked separately from concept design.
@@ -41,7 +46,7 @@ Every civ has one Markdown entry with its known numerical mechanics, unique comp
 - [Civilization Template](TEMPLATE.md) — structure for the next surprise.
 
 ## Archival integrity
-Entries 1–18 are reconstructed from retained design specifications, **not verbatim copies of the original long-form drafts**. Entries 19–26 are based on full designs from the chat, condensed for convenient reference. Missing original details are marked rather than invented.
+Entries 1–18 are reconstructed from retained design specifications, **not verbatim copies of the original long-form drafts**. Entries 19–31 are based on full designs from the chat, condensed for convenient reference. Missing original details are marked rather than invented.
 
 ## Implementation conventions
 - Target **Community Patch v151**, not mandatory full Vox Populi.
@@ -50,4 +55,4 @@ Entries 1–18 are reconstructed from retained design specifications, **not verb
 - Lua bonuses must be idempotent and save-safe; clean up on capture, unit upgrades, and reload.
 - Do not mark a design implemented without verified mod files and tests.
 
-Initial archive: **11 November 2026**.
+Initial archive: **11 November 2026**. Updated through **16 November 2026**.

@@ -31,4 +31,10 @@
 | 25 | The Carapace Dominion | Archived | Unverified | Unverified |
 | 26 | The Octopus Parliament | Archived | Unverified | Unverified |
 
+| 27 | The Fogbound Republic | Archived | Unverified | Unverified |
+| 28 | The Republic of Borrowed Tomorrows | Archived | Unverified | Unverified |
+| 29 | The Lichen Compact | Archived | Unverified | Unverified |
+| 30 | The Glass Orchard | Archived | Unverified | Unverified |
+| 31 | The Cartographers of Nowhere | Archived | Unverified | Unverified |
+
 For each confirmed implementation, link the repository, commit or pull request, and the test outcome. Existing Wacky2/Wacky3 implementations may be linked separately once validated.
