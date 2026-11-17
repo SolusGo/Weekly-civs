@@ -1,6 +1,6 @@
 # 🎲 Weekly Civs — The Civilization V Surprise Encyclopedia
 
-**32 Daily Surprise Civilization concepts**, archived for Sid Meier's **Civilization V: Brave New World + Community Patch v151**. This is a *design library*, not an installable mod pack.
+**33 Daily Surprise Civilization concepts**, archived for Sid Meier's **Civilization V: Brave New World + Community Patch v151**. This is a *design library*, not an installable mod pack.
 
 Every civ has one Markdown entry with its known numerical mechanics, unique components, and Codex implementation cautions. Human-only by default: `Playable=1`, `AIPlayable=0`.
 
@@ -40,6 +40,7 @@ Every civ has one Markdown entry with its known numerical mechanics, unique comp
 | 30 | [The Glass Orchard](Civilizations/030-the-glass-orchard.md) | Solar greenhouses and desert agriculture | Science / Culture |
 | 31 | [The Cartographers of Nowhere](Civilizations/031-the-cartographers-of-nowhere.md) | Expeditions, discovery, mapping the unknown | Science / Culture |
 | 32 | [The Muisca Confederation](Civilizations/032-the-muisca-confederation.md) | Muisca highland salt, gold, and sacred lakes | Culture / Religion / Diplomacy |
+| 33 | [The Grand Duchy of Folding Chairs](Civilizations/033-the-grand-duchy-of-folding-chairs.md) | Absurd civic militarism and productive garrisons | Culture / Defensive Domination |
 
 ## Other files
 - [Implementation Status](IMPLEMENTATION_STATUS.md) — tracked separately from concept design.
@@ -47,7 +48,7 @@ Every civ has one Markdown entry with its known numerical mechanics, unique comp
 - [Civilization Template](TEMPLATE.md) — structure for the next surprise.
 
 ## Archival integrity
-Entries 1–18 are reconstructed from retained design specifications, **not verbatim copies of the original long-form drafts**. Entries 19–32 are based on full designs from the chat, condensed for convenient reference. Missing original details are marked rather than invented.
+Entries 1–18 are reconstructed from retained design specifications, **not verbatim copies of the original long-form drafts**. Entries 19–33 are based on full designs from the chat, condensed for convenient reference. Missing original details are marked rather than invented.
 
 ## Implementation conventions
 - Target **Community Patch v151**, not mandatory full Vox Populi.
@@ -56,4 +57,4 @@ Entries 1–18 are reconstructed from retained design specifications, **not verb
 - Lua bonuses must be idempotent and save-safe; clean up on capture, unit upgrades, and reload.
 - Do not mark a design implemented without verified mod files and tests.
 
-Initial archive: **11 November 2026**. Updated through **17 November 2026**.
+Initial archive: **11 November 2026**. Updated through **18 November 2026**.
