@@ -40,5 +40,6 @@
 | 32 | The Muisca Confederation | Archived | Unverified | Unverified |
 
 | 33 | The Grand Duchy of Folding Chairs | Archived | Unverified | Unverified |
+| 34 | The Chachapoya | Archived | Unverified | Unverified |
 
 For each confirmed implementation, link the repository, commit or pull request, and the test outcome. Existing Wacky2/Wacky3 implementations may be linked separately once validated.
