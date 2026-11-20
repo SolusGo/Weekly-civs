@@ -1,6 +1,6 @@
 # 🎲 Weekly Civs — The Civilization V Surprise Encyclopedia
 
-**36 Daily Surprise Civilization concepts**, archived for Sid Meier's **Civilization V: Brave New World + Community Patch v151**. This is a *design library*, not an installable mod pack.
+**37 Daily Surprise Civilization concepts**, archived for Sid Meier's **Civilization V: Brave New World + Community Patch v151**. This is a *design library*, not an installable mod pack.
 
 Every civ has one Markdown entry with its known numerical mechanics, unique components, and Codex implementation cautions. Human-only by default: `Playable=1`, `AIPlayable=0`.
 
@@ -44,6 +44,7 @@ Every civ has one Markdown entry with its known numerical mechanics, unique comp
 | 34 | [The Chachapoya](Civilizations/034-the-chachapoya.md) | Cloud-forest hill settlements and fortifications | Culture / Defense |
 | 35 | [The Calendar of Unofficial Holidays](Civilizations/035-the-calendar-of-unofficial-holidays.md) | Absurd public holidays and WLTKD celebrations | Culture / Science |
 | 36 | [The Velvet Menagerie](Civilizations/036-the-velvet-menagerie.md) | Wildlife preserves, worked Camps, natural history | Science / Culture |
+| 37 | [The Kiln Cities of Aster](Civilizations/037-the-kiln-cities-of-aster.md) | Ceramics, quarries and civic craftsmanship | Culture / Science |
 
 ## Other files
 - [Implementation Status](IMPLEMENTATION_STATUS.md) — tracked separately from concept design.
@@ -51,7 +52,7 @@ Every civ has one Markdown entry with its known numerical mechanics, unique comp
 - [Civilization Template](TEMPLATE.md) — structure for the next surprise.
 
 ## Archival integrity
-Entries 1–18 are reconstructed from retained design specifications, **not verbatim copies of the original long-form drafts**. Entries 19–36 are based on full designs from the chat, condensed for convenient reference. Missing original details are marked rather than invented.
+Entries 1–18 are reconstructed from retained design specifications, **not verbatim copies of the original long-form drafts**. Entries 19–37 are based on full designs from the chat, condensed for convenient reference. Missing original details are marked rather than invented.
 
 ## Implementation conventions
 - Target **Community Patch v151**, not mandatory full Vox Populi.
