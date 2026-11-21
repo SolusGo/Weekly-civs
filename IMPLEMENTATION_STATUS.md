@@ -47,5 +47,6 @@
 | 36 | The Velvet Menagerie | Archived | Unverified | Unverified |
 
 | 37 | The Kiln Cities of Aster | Archived | Unverified | Unverified |
+| 38 | The Emberwatch Compact | Archived | Unverified | Unverified |
 
 For each confirmed implementation, link the repository, commit or pull request, and the test outcome. Existing Wacky2/Wacky3 implementations may be linked separately once validated.
