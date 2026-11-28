@@ -52,5 +52,7 @@
 | 40 | The Republic of Spare Parts | Archived | Unverified | Unverified |
 | 41 | The Sovereignty of the Second Sun | Archived | Unverified | Unverified |
 | 42 | The Republic of Unfinished Wars | Archived | Unverified | Unverified |
+| 43 | The Kingdom of the Borrowed Moon | Archived | Unverified | Unverified |
+| 44 | The Commonwealth of Forgotten Names | Archived | Unverified | Unverified |
 
 For each confirmed implementation, link the repository, commit or pull request, and the test outcome. Existing Wacky2/Wacky3 implementations may be linked separately once validated.
